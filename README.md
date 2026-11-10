@@ -1,4 +1,4 @@
-# CPSC 322 Group Project — JT Dinh
+# CPSC 322 Group Project 
 
 ## Project overview
 
